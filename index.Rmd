@@ -1,6 +1,6 @@
 --- 
 title: "OIMA Lab Manual"
-author: "Greg Gearheart"
+author: "Greg Gearheart and OIMA team"
 date: "Last updated: `r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
