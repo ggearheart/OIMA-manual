@@ -1,13 +1,13 @@
 --- 
 title: "OIMA Lab Manual"
-author: "Gavin Fay & Ashleigh Novak"
+author: "Greg Gearheart"
 date: "Last updated: `r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: thefaylab/lab-manual
+github-repo: ggearheart/OIMA-manual
 description: "This is the lab manual for the OIMA team at the CA State Water Resources Control Board"
 ---
 
