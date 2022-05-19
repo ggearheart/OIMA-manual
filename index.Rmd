@@ -1,5 +1,5 @@
 --- 
-title: "Faylab Lab Manual"
+title: "OIMA Lab Manual"
 author: "Gavin Fay & Ashleigh Novak"
 date: "Last updated: `r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -8,7 +8,7 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: thefaylab/lab-manual
-description: "This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology"
+description: "This is the lab manual for the OIMA team at the CA State Water Resources Control Board"
 ---
 
 # Welcome!
@@ -16,14 +16,15 @@ description: "This is the lab manual for the Fay Lab at the University of Massac
 Welcome to our book of magical secrets.  
 
 <br>
-This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology.  
-The focus of our work centers around developing interdisciplinary modeling approaches to extend the scope of applications for fisheries and ecosystem-based management. More about our group's research activity can be found on our [website](https://thefaylab.com).
+This is the team manual for the Office of Information Management and Analysis (OIMA) at the State Water Resources Control Board.  
+The focus of our work centers around developing ifrastructure and capacity around data sharing, with a special emphasis on the Surface Water Ambient Monitoring Program (SWAMP) colection of our most valuable data. The SWAMP data is used to monitor the leath of all of surface waters and the watersheds that feed them throughout California. More about our group's work can be found on our [website](https://www.waterboards.ca.gov/resources/oima/).
 
-This lab manual resource is intended to provide an overview for lab members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact Gavin (gfay@umassd.edu) or make a pull request.
+This lab manual resource is intended to provide an overview for lab members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact Greg (greg.gearheart@waterboards.ca.gov) or make a pull request.
 
 <br>
 
-The content for this book was developed as part of our group's participation in the [Openscapes Champions program](https://openscapes.org).  
+The content for this book was originally developed by the [Fay Lab](http://www.smast.umassd.edu/lab_fay/). as part of that group's participation in the [Openscapes Champions program](https://openscapes.org).  Our OIMA team is also now participating in the Openscapes Champions program and we forked their book and adapted it to OIMA's needs.
+
 We are extremely grateful to and acknowledge [Dr. Julia Stewart Lowndes](https://twitter.com/juliesquid)' role in helping shape how our lab both works and how we articulate our identity.  
 
 <a align="left" href="https://github.com/thefaylab/lab-manual/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a> < link to this book's GitHub repository. Also see [Quick steps to making a copy of the lab manual and publishing it](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it)!
